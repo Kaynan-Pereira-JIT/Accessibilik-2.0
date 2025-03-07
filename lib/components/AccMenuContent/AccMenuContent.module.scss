@@ -1,0 +1,11 @@
+.accMenuContent {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: calc(100vh - 250px);
+}
+
+.accMenuContent > *:last-child {
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+}
