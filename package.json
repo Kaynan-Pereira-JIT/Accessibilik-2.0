@@ -1,6 +1,6 @@
 {
-  "name": "accessibility-react-widget",
-  "author": "Vladi Iokhim",
+  "name": "accessibility-react-widget-2.0",
+  "author": "Vladi Iokhim and Kaynan Pereira",
   "license": "MIT",
   "description": "A React-based web accessibility widget to enhance UI/UX for all users. This powerful tool seamlessly integrates with React applications, offering a wide range of features like adjustable font sizes, text alignment options, dyslexia-friendly fonts, and color contrast adjustments. It's equipped with advanced functionalities including a BlueLight filter, brightness control, text-to-speech, and a zoom button, ensuring an optimal viewing experience for users with visual impairments. With Accessibilik, developers can easily adhere to the latest web accessibility standards (WCAG), enhancing the UI/UX for diverse audiences. Ideal for creating universally accessible web applications, Accessibilik is your go-to solution for making the web more accessible to everyone.",
   "keywords": [
@@ -63,10 +63,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RosenGray/accessibilik.git"
+    "url": "git+https://github.com/Kaynan-Pereira-JIT/Accessibilik-2.0.git"
   },
   "bugs": {
-    "url": "https://github.com/RosenGray/accessibilik/issues"
+    "url": "https://github.com/Kaynan-Pereira-JIT/Accessibilik-2.0/issues"
   },
   "scripts": {
     "dev": "vite",
